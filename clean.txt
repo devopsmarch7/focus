@@ -1,2 +1,1 @@
-test for cleathis is the file for checking branches updated in master
-thi si updated from master2..we have to update it in master also--merge conflicts
+this text file used to test the remote repository merging that is pull requests
